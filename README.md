@@ -16,18 +16,19 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/rodtheo#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rodtheo#gh-dark-mode-only)
 
-
-<br />
 <br />
 
 ---
-
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+[![Rodtheo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodtheo)](https://github.com/rodtheo/github-readme-stats)
+
+---
 
 [genbrabout]: https://genbrsummit.com/about-us-genomas-brasil/
 [twitter]: https://twitter.com/rodtheodoro
