@@ -28,11 +28,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodtheo?hide=jupyter%20notebook)](https://github.com/rodtheo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodtheo?langs_count=10?theme=gruvbox_light)](https://github.com/rodtheo/github-readme-stats)
 
 ---
 
-[![Rodtheo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodtheo&count_private=true&show_icons=true)](https://github.com/rodtheo/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rodtheo&count_private=true&show_icons=true?theme=gruvbox_light)](https://github.com/rodtheo/github-readme-stats)
 
 ---
 
