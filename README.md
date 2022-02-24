@@ -28,7 +28,7 @@
 
 ---
 
-[![Rodtheo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodtheo)](https://github.com/rodtheo/github-readme-stats)
+[![Rodtheo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodtheo?count_private=true)](https://github.com/rodtheo/github-readme-stats)
 
 ---
 
