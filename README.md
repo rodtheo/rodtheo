@@ -22,6 +22,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecção de Doenças em Plantas usando FastAI](http://rodtheo.github.io/blog/2019/10/29/fastai-aula-01/)
+- [The Lempel-Ziv or Ziv-lempel, or, even LZ compression](http://rodtheo.github.io/blog/2019/10/14/lempel-ziv-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
