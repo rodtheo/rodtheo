@@ -20,6 +20,13 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 [genbrabout]: https://genbrsummit.com/about-us-genomas-brasil/
 [twitter]: https://twitter.com/rodtheodoro
