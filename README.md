@@ -28,7 +28,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodtheo&langs_count=10&hide=jupyter%20notebook,html,javascript)](https://github.com/rodtheo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodtheo&langs_count=10&hide=jupyter%20notebook,html,javascript,css,tex,cweb)](https://github.com/rodtheo/github-readme-stats)
 
 ---
 
