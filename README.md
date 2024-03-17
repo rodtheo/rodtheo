@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working at Brazilian Ministry of Health as a bioinformatics technical consultant in the [Brazilian National Program of Genomics and Precision Health - Genomas Brasil][genbrabout]
 - 🌱 Learning AWS, Rust, Compact Data Structures and DL applied for genomics
-- 🥅 2022 Goals: Learn more and more about Rust
+- 🥅 2024 Goals: Learn more and more about Rust
 - ⚡ Disclaimer: Don't surprise if you stumble into some mechatronics/electric circuit contents while browsing my repos, I'm also (almost) a mechatronics engineer
 
 
